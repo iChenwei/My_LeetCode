@@ -8,4 +8,6 @@
 - [x] LeetCode 2.两数相加（中等）
 - [x] LeetCode 3. 无重复字符的最长子串（中等）
 - [ ] LeetCode 4. 寻找两个正序数组的中位数（困难）
-- [ ] LeetCode 5. 最长回文子串
+- [x] LeetCode 5. 最长回文子串（中等）
+- [x] LeetCode 6. Z 字形变换（中等）
+- [x] LeetCode 7. 整数反转（中等）
