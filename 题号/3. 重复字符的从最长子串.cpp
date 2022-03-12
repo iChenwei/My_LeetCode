@@ -12,11 +12,11 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int res = 0;
-        unordered_map<char, int> heap;  // <字符,出现次数>
+        unordered_map<char, int> hash;  // <字符,出现次数>
         for(int i = 0, j = 0; i < s.size(); i++) {
-            heap[s[i]] ++;
-            while(heap[s[i]] > 1) {    // 子串有重复字符
-                heap[s[j]]--;
+            hash[s[i]] ++;
+            while(hash[s[i]] > 1) {    // 子串有重复字符
+                hash[s[j]]--;
                 j++;
             }
             res = max(res, i - j + 1);

@@ -26,13 +26,13 @@ public:
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> heap;  // <数组元素,下标>
+        unordered_map<int, int> hash;  // <数组元素,下标>
         for(int i = 0; i < nums.size(); i++) {
-            int r = target - heap[r];
-            if(heap.count(r)) {  // 找到目标元素，返回结果
-                return {heap[r], i};
+            int r = target - hash[r];
+            if(hash.count(r)) {  // 找到目标元素，返回结果
+                return {hash[r], i};
             }
-            heap[nums[i]] = i;  // 当前元素，加入到unordered_map中
+            hash[nums[i]] = i;  // 当前元素，加入到unordered_map中
         }
         return {};
     }

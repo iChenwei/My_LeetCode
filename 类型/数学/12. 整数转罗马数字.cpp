@@ -2,7 +2,7 @@
 /*
     思路：
     - https://www.acwing.com/solution/content/101/
-    - 吐了，简单来讲就是抠出千、百、十、个位数
+    - 吐了
 */
 class Solution {
 public:
