@@ -29,13 +29,13 @@
 - [x] LeetCode 12.[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman)（中等）
 - [x] LeetCode 13. [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer)（简单）
 - [x] LeetCode 14. [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)（简单）
-- [ ] LeetCode 15. [三数之和](https://leetcode-cn.com/problems/3sum)（中等）
-- [ ] LeetCode 16. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)（中等）
-- [ ] LeetCode 17. [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)（中等）
+- [x] LeetCode 15. [三数之和](https://leetcode-cn.com/problems/3sum)（中等）
+- [x] LeetCode 16. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)（中等）
+- [x] LeetCode 17. [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)（中等）
 
-- [ ] LeetCode 18. [四数之和](https://leetcode-cn.com/problems/4sum)（中等）
+- [x] LeetCode 18. [四数之和](https://leetcode-cn.com/problems/4sum)（中等）
 
-- [ ] LeetCode 19. [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)（中等）
+- [x] LeetCode 19. [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)（中等）
 
 - [ ] LeetCode 20. [有效的括号](https://leetcode-cn.com/problems/valid-parentheses)（简单）
 
