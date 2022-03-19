@@ -49,8 +49,8 @@
 - [ ] LeetCode 23. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)（困难）
 - [x] LeetCode 24. [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)（中等）
 - [ ] LeetCode 25. [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)（困难）
-- [ ] LeetCode 26. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)（简单）
-- [ ] LeetCode 27. [移除元素](https://leetcode-cn.com/problems/remove-element)（简单）
+- [x] LeetCode 26. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)（简单）
+- [x] LeetCode 27. [移除元素](https://leetcode-cn.com/problems/remove-element)（简单）
 - [ ] LeetCode 28. [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr)（简单）
 - [ ] LeetCode 29. [两数相除](https://leetcode-cn.com/problems/divide-two-integers)（中等）
 - [ ] LeetCode 30. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)（困难）
