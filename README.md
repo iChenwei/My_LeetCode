@@ -20,7 +20,7 @@
 
 ### 做题总量
 
-​		25
+​		26
 
 ### 做题进度
 
@@ -54,7 +54,7 @@
 - [x] LeetCode 28. [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr)（简单）
 - [x] LeetCode 29. [两数相除](https://leetcode-cn.com/problems/divide-two-integers)（中等）
 - [ ] LeetCode 30. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)（困难）
-- [ ] LeetCode 31. [下一个排列](https://leetcode-cn.com/problems/next-permutation)（中等）
+- [x] LeetCode 31. [下一个排列](https://leetcode-cn.com/problems/next-permutation)（中等）
 - [ ] LeetCode 32. [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses)（困难）
 - [ ] LeetCode 33. [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)（中等）
 - [ ] LeetCode 34. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)（中等）
