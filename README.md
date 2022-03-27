@@ -20,7 +20,7 @@
 
 ### 做题总量
 
-​		26
+​		27
 
 ### 做题进度
 
@@ -56,6 +56,6 @@
 - [ ] LeetCode 30. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)（困难）
 - [x] LeetCode 31. [下一个排列](https://leetcode-cn.com/problems/next-permutation)（中等）
 - [ ] LeetCode 32. [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses)（困难）
-- [ ] LeetCode 33. [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)（中等）
+- [x] LeetCode 33. [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)（中等）
 - [ ] LeetCode 34. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)（中等）
 - [ ] LeetCode 35. [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)（简单）
