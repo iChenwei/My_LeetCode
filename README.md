@@ -14,13 +14,13 @@
         - LeetCode 547.  
 
     - 2022年考研
-        - LeetCode 
-        - LeetCode 
+        - LeetCode 141.
+        - LeetCode 64. 最小路径和（中等）
 
 
 ### 做题总量
 
-​		30
+​		31
 
 ### 做题进度
 
@@ -98,7 +98,7 @@
 
 - [ ] LeetCode 37. [解数独](https://leetcode-cn.com/problems/sudoku-solver)（困难）
 
-- [ ] LeetCode 38.  [外观数列](https://leetcode-cn.com/problems/count-and-say)（中等）
+- [x] LeetCode 38.  [外观数列](https://leetcode-cn.com/problems/count-and-say)（中等）
 
 - [ ] LeetCode 39.  [组合总和](https://leetcode-cn.com/problems/combination-sum)（中等）
 
