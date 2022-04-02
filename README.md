@@ -100,8 +100,28 @@
 
 - [x] LeetCode 38.  [外观数列](https://leetcode-cn.com/problems/count-and-say)（中等）
 
-- [ ] LeetCode 39.  [组合总和](https://leetcode-cn.com/problems/combination-sum)（中等）
+- [x] LeetCode 39.  [组合总和](https://leetcode-cn.com/problems/combination-sum)（中等）
 
 - [ ] LeetCode 40.  [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)（中等）
+
+- [ ] LeetCode 41. [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)（困难）
+
+- [ ] LeetCode 42. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water)（困难）
+
+- [ ] LeetCode 43. [字符串相乘](https://leetcode-cn.com/problems/multiply-strings)（中等）
+
+- [ ] LeetCode 44. [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)（困难）
+
+- [ ] LeetCode 45. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)（中等）
+
+- [ ] LeetCode 46. [全排列](https://leetcode-cn.com/problems/permutations)（中等）
+
+- [ ] LeetCode 47. [全排列 II](https://leetcode-cn.com/problems/permutations-ii)（中等）
+
+- [ ] LeetCode 48. [旋转图像](https://leetcode-cn.com/problems/rotate-image)（中等）
+
+- [ ] LeetCode 49. [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)（ 中等）
+
+- [ ] LeetCode 50. [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)（中等）
 
     
