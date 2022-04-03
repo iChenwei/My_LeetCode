@@ -15,12 +15,12 @@
 
     - 2022年考研
         - LeetCode 141.
-        - LeetCode 64. 最小路径和（中等）
+        - LeetCode 64. 最小路径和（中等）-- 不确定
 
 
 ### 做题总量
 
-​		31
+​		34
 
 ### 做题进度
 
@@ -102,13 +102,13 @@
 
 - [x] LeetCode 39.  [组合总和](https://leetcode-cn.com/problems/combination-sum)（中等）
 
-- [ ] LeetCode 40.  [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)（中等）
+- [x] LeetCode 40.  [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)（中等）
 
 - [ ] LeetCode 41. [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)（困难）
 
 - [ ] LeetCode 42. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water)（困难）
 
-- [ ] LeetCode 43. [字符串相乘](https://leetcode-cn.com/problems/multiply-strings)（中等）
+- [x] LeetCode 43. [字符串相乘](https://leetcode-cn.com/problems/multiply-strings)（中等）
 
 - [ ] LeetCode 44. [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)（困难）
 
