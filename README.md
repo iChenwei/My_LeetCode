@@ -20,7 +20,7 @@
 
 ### 做题总量
 
-​		34
+​		35
 
 ### 做题进度
 
@@ -112,7 +112,7 @@
 
 - [ ] LeetCode 44. [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)（困难）
 
-- [ ] LeetCode 45. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)（中等）
+- [x] LeetCode 45. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)（中等）
 
 - [ ] LeetCode 46. [全排列](https://leetcode-cn.com/problems/permutations)（中等）
 
@@ -123,5 +123,15 @@
 - [ ] LeetCode 49. [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)（ 中等）
 
 - [ ] LeetCode 50. [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)（中等）
+
+- [ ] LeetCode 51. 
+
+- [ ] LeetCode 52. 
+
+- [ ] LeetCode 53. 
+
+- [ ] LeetCode 54. 
+
+- [ ] LeetCode 55. [跳跃游戏](https://leetcode-cn.com/problems/jump-game)（中等）
 
     
