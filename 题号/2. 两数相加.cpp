@@ -21,7 +21,7 @@ public:
        ListNode *curr = dummy;
        int t = 0;  // 进位
        // 模拟加法
-       while(l1 || l2 || t) {  // 三个位置需要相加
+       while(l1 || l2 || t) {  // 三个位置需要相加（且两个结点都加完时，进位不为零，需要额外补充一个结点）
            if(l1) {
                t += l1->val;
                l1 = l1->next;
