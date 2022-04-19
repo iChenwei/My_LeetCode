@@ -20,7 +20,7 @@
 
 ### 做题总量
 
-  		40
+  		41
 
 ### 做题进度
 
@@ -128,7 +128,7 @@
 
 - [ ] LeetCode 52. [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)（困难）
 
-- [ ] LeetCode 53. [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray)（简单）
+- [x] LeetCode 53. [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray)（简单）
 
 - [ ] LeetCode 54. [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)（中等）
 
