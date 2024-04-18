@@ -10,7 +10,7 @@
 
 - **困难**的题目，在完成600道以后再补。
 - **带🔒**的题目不做。
-- 军科院代码原题
+- AMS代码原题
     - 2021年考研
         - LeetCode 21. [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)（简单）
         - LeetCode 547.  
